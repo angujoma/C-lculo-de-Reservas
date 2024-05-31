@@ -1,2 +1,2 @@
-# C-lculo-de-Reservas
+# Calculo-de-Reservas
 Cálculo de  reservas crediticias para micro creditos 
